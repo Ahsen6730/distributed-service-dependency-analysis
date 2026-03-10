@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DependencyAnalysis\\DependencyAnalysis.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "ExternalService\\ExternalService.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.csproj.AssemblyReference.cache
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.AssemblyInfoInputs.cache
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.AssemblyInfo.cs
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahsen.Aslan\Documents\GitHub\distributed-service-dependency-analysis\DependencyAnalysis\obj\Debug\net9.0\DependencyAnalysis.sourcelink.json

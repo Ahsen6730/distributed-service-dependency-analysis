@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DependencyAnalysis",
+    "\\DependencyAnalysis\\Controllers",
+    "\\DependencyAnalysis\\Services",
+    "\\ExternalService\\Controllers",
+    "\\ExternalService\\wwwroot"
+  ],
+  "SelectedNode": "\\DependencyAnalysis",
+  "PreviewInSolutionExplorer": false
+}
