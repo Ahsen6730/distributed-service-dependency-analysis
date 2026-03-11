@@ -13,11 +13,11 @@ namespace DependencyAnalysis.Controllers
         public PerformanceController(IExternalServiceClient externalService)
             => _externalService = externalService;
 
-        // SENARYO 1: Bağımsız (Baseline)
+        //TC-01 SENARYO 1: Bağımsız (Baseline)
         [HttpGet("independent")]
         public IActionResult GetIndependent() => Ok("Baseline Success");
 
-        // SENARYO 2: Tekil Bağımlılık (Level 1) - Servisi Kullanıyor!
+        // TC-02 SENARYO 2: Tekil Bağımlılık (Level 1)
         [HttpGet("level1")]
         public async Task<IActionResult> GetLevel1()
         {
@@ -25,7 +25,7 @@ namespace DependencyAnalysis.Controllers
             return Ok(new { Dependency = "Level 1", ProcessedDataCount = data.Count });
         }
 
-        // SENARYO 3: Hibrit - Ödeme Simülasyonu (CPU + I/O)
+        //TC-03 SENARYO 3: Hibrit - Ödeme Simülasyonu (CPU + I/O) 
         [HttpGet("secure-checkout")]
         public async Task<IActionResult> GetSecureCheckout()
         {
@@ -45,6 +45,7 @@ namespace DependencyAnalysis.Controllers
             });
         }
 
+        //TC-04
         [HttpGet("resilience-check")]
         public async Task<IActionResult> GetResilienceTest()
         {
