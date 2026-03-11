@@ -28,5 +28,16 @@ namespace ExternalService.Controllers
             }
             return Ok(new { Data = "Unstable Service Response", Status = "Late but Success" });
         }
+
+        [HttpGet("data-stream")]
+        public IActionResult GetDataStream()
+        {
+            var mockData = new
+            {
+                RawData = Enumerable.Range(1, 100).Select(_ => Random.Shared.Next(1, 1000)).ToList()
+            };
+
+            return Ok(mockData);
+        }
     }
 }
