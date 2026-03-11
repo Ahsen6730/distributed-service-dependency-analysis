@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\DependencyAnalysis\\DependencyAnalysis.csproj": {}
+    "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\DependencyAnalysis\\DependencyAnalysis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\DependencyAnalysis\\DependencyAnalysis.csproj": {
+    "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\DependencyAnalysis\\DependencyAnalysis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\DependencyAnalysis\\DependencyAnalysis.csproj",
+        "projectUniqueName": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\DependencyAnalysis\\DependencyAnalysis.csproj",
         "projectName": "DependencyAnalysis",
-        "projectPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\DependencyAnalysis\\DependencyAnalysis.csproj",
+        "projectPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\DependencyAnalysis\\DependencyAnalysis.csproj",
         "packagesPath": "C:\\Users\\Ahsen.Aslan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\DependencyAnalysis\\obj\\",
+        "outputPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\DependencyAnalysis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,13 +57,17 @@
               "target": "Package",
               "version": "[9.0.13, )"
             },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[10.1.4, )"
             },
-            "Swashbuckle.AspNetCore.Swagger": {
+            "v24.OpenApi.Models": {
               "target": "Package",
-              "version": "[10.1.4, )"
+              "version": "[2.0.45, )"
             }
           },
           "imports": [

@@ -48,15 +48,8 @@ namespace DependencyAnalysis.Controllers
         [HttpGet("resilience-check")]
         public async Task<IActionResult> GetResilienceTest()
         {
-            var client = _clientFactory.CreateClient("ExternalApi");
-
-            var response = await client.GetAsync("api/ExternalData/unstable-data");
-
-            return Ok(new
-            {
-                IsSuccess = response.IsSuccessStatusCode,
-                StatusCode = response.StatusCode
-            });
+            var response = await _externalService.CheckResilienceAsync(); 
+            return Ok(new { IsSuccess = response.IsSuccessStatusCode, StatusCode = response.StatusCode });
         }
 
         private string ComputeHash(string rawData)

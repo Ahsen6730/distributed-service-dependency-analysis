@@ -588,11 +588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\ExternalService\\ExternalService.csproj",
+      "projectUniqueName": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\ExternalService\\ExternalService.csproj",
       "projectName": "ExternalService",
-      "projectPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\ExternalService\\ExternalService.csproj",
+      "projectPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\ExternalService\\ExternalService.csproj",
       "packagesPath": "C:\\Users\\Ahsen.Aslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\ExternalService\\obj\\",
+      "outputPath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\ExternalService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

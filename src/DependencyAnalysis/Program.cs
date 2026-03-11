@@ -1,5 +1,4 @@
-﻿using Microsoft.OpenApi.Models; 
-using DependencyAnalysis.Services; 
+﻿using DependencyAnalysis.Services; 
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();

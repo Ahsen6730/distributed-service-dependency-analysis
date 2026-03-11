@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TBMEFchMymM=",
+  "dgSpecHash": "hrfV8tF01OI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\ExternalService\\ExternalService.csproj",
+  "projectFilePath": "C:\\Users\\Ahsen.Aslan\\Documents\\GitHub\\distributed-service-dependency-analysis\\src\\ExternalService\\ExternalService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahsen.Aslan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
     "C:\\Users\\Ahsen.Aslan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",

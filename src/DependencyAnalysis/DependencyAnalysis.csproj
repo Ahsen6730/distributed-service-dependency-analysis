@@ -8,7 +8,9 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.13" />
+    <PackageReference Include="Microsoft.OpenApi" Version="3.4.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.4" />
+    <PackageReference Include="v24.OpenApi.Models" Version="2.0.45" />
   </ItemGroup>
 
 </Project>
