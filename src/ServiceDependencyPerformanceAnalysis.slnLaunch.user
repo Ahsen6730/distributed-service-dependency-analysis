@@ -4,11 +4,11 @@
     "Projects": [
       {
         "Path": "DependencyAnalysis\\DependencyAnalysis.csproj",
-        "Action": "StartWithoutDebugging"
+        "Action": "Start"
       },
       {
         "Path": "ExternalService\\ExternalService.csproj",
-        "Action": "StartWithoutDebugging"
+        "Action": "Start"
       }
     ]
   }

@@ -17,3 +17,11 @@ node_modules/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+# Build klasörlerini engelle
+[Bb]in/
+[Ob]j/
+
+# Kullanıcıya özel ayarları engelle
+*.user
+*.suo
+.vs/
