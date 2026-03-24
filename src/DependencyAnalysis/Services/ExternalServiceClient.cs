@@ -10,6 +10,9 @@ namespace DependencyAnalysis.Services
     {
         Task<List<int>> GetAndProcessDataAsync();
         Task<HttpResponseMessage> CheckResilienceAsync();
+        Task<string> GetLargePayloadAsync(); 
+        Task<HttpResponseMessage> GetErrorBurstAsync();
+        Task<string> CheckConnectionFailureAsync();
     }
     public class ExternalServiceClient : IExternalServiceClient
     {
@@ -30,6 +33,28 @@ namespace DependencyAnalysis.Services
             }
 
             return new List<int>();
+        }
+        public async Task<string> GetLargePayloadAsync()
+        {
+            return await _httpClient.GetStringAsync("api/ExternalData/large-payload");
+        }
+
+        public async Task<HttpResponseMessage> GetErrorBurstAsync()
+        {
+            return await _httpClient.GetAsync("api/ExternalData/error-burst");
+        }
+
+        public async Task<string> CheckConnectionFailureAsync()
+        {
+            try
+            {
+                var response = await _httpClient.GetAsync("api/ExternalData/news");
+                return "Service is Up";
+            }
+            catch (HttpRequestException ex)
+            {
+                throw new Exception("TC-05: Connection Refused! Gateway failed fast.", ex);
+            }
         }
     }
 }

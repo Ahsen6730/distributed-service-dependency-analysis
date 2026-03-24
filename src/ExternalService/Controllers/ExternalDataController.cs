@@ -39,5 +39,20 @@ namespace ExternalService.Controllers
 
             return Ok(mockData);
         }
+
+        // TC-08: Sürekli Hata (500 Error)
+        [HttpGet("error-burst")]
+        public IActionResult GetError()
+        {
+            return StatusCode(500, "Simulated Internal Server Error");
+        }
+
+        // TC-06: Veri Boyutu Yükü (Large Payload)
+        [HttpGet("large-payload")]
+        public IActionResult GetLargePayload()
+        {
+            var data = new string('A', 10 * 1024 * 1024);
+            return Ok(new { content = data });
+        }
     }
 }

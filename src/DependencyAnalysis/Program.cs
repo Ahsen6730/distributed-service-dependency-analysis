@@ -7,7 +7,12 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddHttpClient<IExternalServiceClient, ExternalServiceClient>(client =>
 {
-    client.BaseAddress = new Uri("http://localhost:5001/"); 
+    client.BaseAddress = new Uri("http://localhost:5001/");
+})
+.ConfigurePrimaryHttpMessageHandler(() => new SocketsHttpHandler
+{
+    // TC-07 Aynı anda en fazla 2 bağlantıya izin veriyoruz.
+    MaxConnectionsPerServer = 2
 });
 
 var app = builder.Build();

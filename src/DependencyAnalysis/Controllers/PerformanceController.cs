@@ -59,5 +59,51 @@ namespace DependencyAnalysis.Controllers
             byte[] bytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(rawData));
             return Convert.ToHexString(bytes);
         }
+
+        // TC-05: Service Down / Connection Refused Senaryosu
+        [HttpGet("connection-failure")]
+        public async Task<IActionResult> GetConnectionFailure()
+        {
+            try
+            {
+                await _externalService.CheckConnectionFailureAsync();
+                return Ok("Service is running normally.");
+            }
+            catch (Exception ex)
+            {
+                // Hata durumunda (servis kapalıyken) milisaniyeler içinde buraya düşer.
+                return StatusCode(503, new
+                {
+                    Scenario = "TC-05",
+                    Error = "External Service Unreachable",
+                    Detail = ex.Message
+                });
+            }
+        }
+
+        // TC-06:Large Payload
+        [HttpGet("payload-test")]
+        public async Task<IActionResult> GetPayloadTest()
+        {
+            var data = await _externalService.GetLargePayloadAsync();
+            return Ok(new { Message = "Payload Received", DataLength = data.Length });
+        }
+
+        // TC-07: Connection Pool Exhaustion
+        // Not: Bu testi Program.cs'de  kısıtlı client ile ölçeceğiz
+        [HttpGet("pool-test")]
+        public async Task<IActionResult> GetPoolTest()
+        {
+            var data = await _externalService.GetAndProcessDataAsync();
+            return Ok(new { Info = "Pool Test Execution", Count = data.Count });
+        }
+
+        // TC-08:(Error Burst)
+        [HttpGet("error-burst-test")]
+        public async Task<IActionResult> GetErrorBurstTest()
+        {
+            var response = await _externalService.GetErrorBurstAsync();
+            return StatusCode((int)response.StatusCode, "External Service Error Handled Fast");
+        }
     }
 }
