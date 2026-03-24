@@ -71,7 +71,6 @@ namespace DependencyAnalysis.Controllers
             }
             catch (Exception ex)
             {
-                // Hata durumunda (servis kapalıyken) milisaniyeler içinde buraya düşer.
                 return StatusCode(503, new
                 {
                     Scenario = "TC-05",

@@ -19,7 +19,6 @@ namespace ExternalService.Controllers
         }
 
         [HttpGet("unstable-data")]
-        [HttpGet("unstable-data")]
         public async Task<IActionResult> GetUnstableData()
         {
             var random = new Random();
