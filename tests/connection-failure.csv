@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+TC-05,150,9676,4201,11449,1839.57,100.000%,.50671,0.15,0.08,294.0
+TOTAL,150,9676,4201,11449,1839.57,100.000%,.50671,0.15,0.08,294.0
