@@ -19,14 +19,24 @@ namespace ExternalService.Controllers
         }
 
         [HttpGet("unstable-data")]
+        [HttpGet("unstable-data")]
         public async Task<IActionResult> GetUnstableData()
         {
             var random = new Random();
-            if (random.Next(1, 10) <= 3)
+            int chance = random.Next(1, 101); 
+
+            if (chance <= 20)
             {
-                await Task.Delay(5000);
+                return StatusCode(500, "Random Fault Injection: Service Failure");
             }
-            return Ok(new { Data = "Unstable Service Response", Status = "Late but Success" });
+
+            if (chance > 20 && chance <= 50)
+            {
+                int delay = random.Next(3000, 7000); 
+                await Task.Delay(delay);
+            }
+
+            return Ok(new { Data = "Success", Probability = chance });
         }
 
         [HttpGet("data-stream")]
