@@ -1,0 +1,306 @@
+TY  - JOUR
+AU  - Kulkarni, Sameer
+AU  - Liu, Guyue
+AU  - Ramakrishnan, K.
+AU  - Arumaithurai, M.
+AU  - Wood, Timothy
+AU  - Fu, Xiaoming
+TI  - REINFORCE: Achieving Efficient Failure Resiliency for Network Function Virtualization-Based Services
+PY  - 2018
+DA  - 2018-12-04
+JO  - IEEE/ACM Transactions on Networking
+VL  - 28
+SP  - 695
+EP  - 708
+DO  - 10.1145/3281411.3281441
+UR  - https://consensus.app/papers/reinforce-achieving-efficient-failure-resiliency-for-kulkarni-liu/9c84f50982a95910885ecc5a3c1211e4/
+ER  - 
+TY  - JOUR
+AU  - Gan, Yu
+AU  - Delimitrou, Christina
+TI  - The Architectural Implications of Cloud Microservices
+PY  - 2018
+DA  - 2018-05-25
+JO  - IEEE Computer Architecture Letters
+VL  - 17
+SP  - 155
+EP  - 158
+DO  - 10.1109/lca.2018.2839189
+UR  - https://consensus.app/papers/the-architectural-implications-of-cloud-microservices-gan-delimitrou/495eec86d7125f1e80c05feeb3d2eea4/
+ER  - 
+TY  - JOUR
+AU  - Owen, Raymond
+AU  - Bryant, Adam
+AU  - Finch, Leigh
+AU  - Franklin, Daniel
+AU  - Abdollahi, Mahrokh
+AU  - Abolhasan, M.
+TI  - Failures and Resilience in the IP Era: Navigating the Fragility of Modern Telecommunications Networks—The Sovereign Functions
+PY  - 2025
+DA  - 
+JO  - IEEE Access
+VL  - 13
+SP  - 155759
+EP  - 155777
+DO  - 10.1109/access.2025.3602054
+UR  - https://consensus.app/papers/failures-and-resilience-in-the-ip-era-navigating-the-owen-bryant/8ea93ca0047753279405f30eae0439d3/
+ER  - 
+TY  - JOUR
+AU  - Han, Di
+AU  - Chen, Wei
+AU  - Bai, Bo
+AU  - Fang, Yuguang
+TI  - Offloading Optimization and Bottleneck Analysis for Mobile Cloud Computing
+PY  - 2019
+DA  - 2019-05-31
+JO  - IEEE Transactions on Communications
+VL  - 67
+SP  - 6153
+EP  - 6167
+DO  - 10.1109/tcomm.2019.2920348
+UR  - https://consensus.app/papers/offloading-optimization-and-bottleneck-analysis-for-han-chen/f55d0bd3448f57fe95bad1a7b577e629/
+ER  - 
+TY  - JOUR
+AU  - Kozub, Volodymyr
+TI  - Problems and Solutions in Building Highly Loaded Software
+PY  - 2025
+DA  - 2025-03-27
+JO  - The American Journal of Engineering and Technology
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.37547/tajet/volume07issue03-20
+UR  - https://consensus.app/papers/problems-and-solutions-in-building-highly-loaded-software-kozub/a5dbcb5b270350d7b92c605f1032decb/
+ER  - 
+TY  - JOUR
+AU  - Hole, K.
+TI  - Tutorial on systems with antifragility to downtime
+PY  - 2021
+DA  - 2021-01-07
+JO  - Computing
+VL  - 104
+SP  - 73
+EP  - 93
+DO  - 10.1007/s00607-020-00895-6
+UR  - https://consensus.app/papers/tutorial-on-systems-with-antifragility-to-downtime-hole/2fc57f9d29d75f9288db82624aadeabf/
+ER  - 
+TY  - JOUR
+AU  - Gao, Wei
+AU  - Zhao, Yuheng
+AU  - Wu, Tianyuan
+AU  - Xiong, Shaopan
+AU  - Wang, Weixun
+AU  - An, Dakai
+AU  - Cao, Lunxi
+AU  - Muhtar, Dilxat
+AU  - Liu, Zichen
+AU  - Zhao, Haizhou
+AU  - Huang, Ju
+AU  - Yang, Siran
+AU  - Li, Yongbin
+AU  - Su, Wenbo
+AU  - Wang, Jiamang
+AU  - Qu, Lin
+AU  - Zheng, Bo
+AU  - Wang, Wei
+TI  - RollArt: Scaling Agentic RL Training via Disaggregated Infrastructure
+PY  - 2025
+DA  - 2025-12-27
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/rollart-scaling-agentic-rl-training-via-disaggregated-gao-zhao/358cbf7589175b0994c46c8bc16dfc83/
+ER  - 
+TY  - JOUR
+AU  - Meijer, Willem
+AU  - Trubiani, Catia
+AU  - Aleti, A.
+TI  - Experimental evaluation of architectural software performance design patterns in microservices
+PY  - 2024
+DA  - 2024-08-01
+JO  - ArXiv
+VL  - abs/2409.03792
+SP  - 
+EP  - 
+DO  - 10.1016/j.jss.2024.112183
+UR  - https://consensus.app/papers/experimental-evaluation-of-architectural-software-meijer-trubiani/84484d643d045830a3125bdf457d60cd/
+ER  - 
+TY  - JOUR
+AU  - Morris, John
+AU  - Mayer, M.
+TI  - Canaries in coal mines and normal accidents: The CrowdStrike outage and its lessons for critical infrastructure
+PY  - 2024
+DA  - 2024-09-02
+JO  - Journal of Critical Infrastructure Policy
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1002/jci3.12021
+UR  - https://consensus.app/papers/canaries-in-coal-mines-and-normal-accidents-the-morris-mayer/1b8eea9342815beda1bc0e64c1854e1f/
+ER  - 
+TY  - JOUR
+AU  - Gorbenko, A.
+AU  - Romanovsky, A.
+AU  - Tarasyuk, O.
+TI  - Fault tolerant internet computing: Benchmarking and modelling trade-offs between availability, latency and consistency
+PY  - 2019
+DA  - 2019-11-01
+JO  - J. Netw. Comput. Appl.
+VL  - 146
+SP  - 
+EP  - 
+DO  - 10.1016/j.jnca.2019.102412
+UR  - https://consensus.app/papers/fault-tolerant-internet-computing-benchmarking-and-gorbenko-romanovsky/cd3f56b51f865eeea4e5a063e2b2757f/
+ER  - 
+TY  - JOUR
+AU  - Martinez, Heberth
+AU  - Mondragon, Oscar
+AU  - Rubio, Helmut
+AU  - Marquez, Jack
+TI  - Computational and Communication Infrastructure Challenges for Resilient Cloud Services
+PY  - 2022
+DA  - 2022-07-29
+JO  - Comput.
+VL  - 11
+SP  - 118
+EP  - 
+DO  - 10.3390/computers11080118
+UR  - https://consensus.app/papers/computational-and-communication-infrastructure-martinez-mondragon/a5bc431c1cc25395833f1f34db281825/
+ER  - 
+TY  - JOUR
+AU  - Ijaz, Aneeqa
+AU  - Raza, Waseem
+AU  - Riaz, Sajid
+AU  - Imran, Ali
+TI  - On Multi-Parameter Optimization and Proactive Reliability in 5G and Beyond Cellular Networks
+PY  - 2025
+DA  - 2025-12-01
+JO  - Sensors (Basel, Switzerland)
+VL  - 25
+SP  - 
+EP  - 
+DO  - 10.3390/s25247651
+UR  - https://consensus.app/papers/on-multiparameter-optimization-and-proactive-ijaz-raza/aa7f434701ae5ce080ece52551807e8d/
+ER  - 
+TY  - JOUR
+AU  - Bedoya, J.
+AU  - Xie, Jing
+AU  - Wang, Yubo
+AU  - Zhang, Xi
+AU  - Liu, Chen-Ching
+TI  - Resiliency of Distribution Systems Incorporating Asynchronous Information for System Restoration
+PY  - 2019
+DA  - 2019-01-01
+JO  - IEEE Access
+VL  - 7
+SP  - 101471
+EP  - 101482
+DO  - 10.1109/access.2019.2930907
+UR  - https://consensus.app/papers/resiliency-of-distribution-systems-incorporating-bedoya-xie/e8e28559a3a55c1b8a49810eaf5053cc/
+ER  - 
+TY  - JOUR
+AU  - Chandnani, Shivansh
+TI  - Leveraging asynchronous frameworks to scale payment systems: A technical analysis
+PY  - 2025
+DA  - 2025-05-30
+JO  - Global Journal of Engineering and Technology Advances
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.30574/gjeta.2025.23.2.0143
+UR  - https://consensus.app/papers/leveraging-asynchronous-frameworks-to-scale-payment-chandnani/e242ece64eb953d28e1cf69de6fc3add/
+ER  - 
+TY  - JOUR
+AU  - Huang, Hai-Nan
+AU  - Qu, Ting
+AU  - Qiu, Xiao-Hui
+AU  - Lin
+AU  - Nie, D.
+AU  - Li, Congdong
+AU  - Huang, George
+TI  - Industrial internet platform-driven decentralised multi-level synchronised reconfiguration of assembly supply chains
+PY  - 2025
+DA  - 2025-01-08
+JO  - International Journal of Production Research
+VL  - 63
+SP  - 4328
+EP  - 4350
+DO  - 10.1080/00207543.2024.2448284
+UR  - https://consensus.app/papers/industrial-internet-platformdriven-decentralised-huang-qu/81f88fc86d7b5a6196352889b1b9a90e/
+ER  - 
+TY  - JOUR
+AU  - Ahmad, Amro Al-Said
+AU  - Al-Qora'n, L.
+AU  - Zayed, Ahmad
+TI  - Exploring the impact of chaos engineering with various user loads on cloud native applications: an exploratory empirical study
+PY  - 2024
+DA  - 2024-05-05
+JO  - Computing
+VL  - 106
+SP  - 2389
+EP  - 2425
+DO  - 10.1007/s00607-024-01292-z
+UR  - https://consensus.app/papers/exploring-the-impact-of-chaos-engineering-with-various-ahmad-al-qoran/be23938e8e405e3993871ce421d81381/
+ER  - 
+TY  - JOUR
+AU  - Aqqad, Waseem Al
+AU  - Hatipoglu, Kenan
+AU  - Litchfield, C.
+AU  - Albataineh, Hisham
+AU  - Nijim, Mais
+TI  - From Cascades to Recovery: Genetic-Algorithm Optimization of Budget and Thresholds in Three-Layer Infrastructure Networks
+PY  - 2025
+DA  - 
+JO  - IEEE Access
+VL  - 13
+SP  - 193909
+EP  - 193917
+DO  - 10.1109/access.2025.3630986
+UR  - https://consensus.app/papers/from-cascades-to-recovery-geneticalgorithm-optimization-aqqad-hatipoglu/f67f09da50675e8789f5402e3bf20084/
+ER  - 
+TY  - JOUR
+AU  - Azadiabad, Siamak
+AU  - Khendek, F.
+AU  - Toeroe, M.
+TI  - Availability and service disruption of network services: From high-level requirements to low-level configuration constraints
+PY  - 2022
+DA  - 2022-03-01
+JO  - Comput. Stand. Interfaces
+VL  - 80
+SP  - 103565
+EP  - 
+DO  - 10.1016/j.csi.2021.103565
+UR  - https://consensus.app/papers/availability-and-service-disruption-of-network-services-azadiabad-khendek/2e91db9f45395a42bf9fd76b99f0b0d2/
+ER  - 
+TY  - JOUR
+AU  - Afzal, Ayesha
+AU  - Hager, G.
+AU  - Wellein, G.
+TI  - The Role of Idle Waves, Desynchronization, and Bottleneck Evasion in the Performance of Parallel Programs
+PY  - 2022
+DA  - 2022-05-09
+JO  - IEEE Transactions on Parallel and Distributed Systems
+VL  - 34
+SP  - 623
+EP  - 638
+DO  - 10.1109/tpds.2022.3221085
+UR  - https://consensus.app/papers/the-role-of-idle-waves-desynchronization-and-bottleneck-afzal-hager/bb425bbdc78c5fb4afb144e6b294b51b/
+ER  - 
+TY  - JOUR
+AU  - Cui, Fangyu
+AU  - Qin, Zhijin
+AU  - Cai, Yunlong
+AU  - Zhao, Minjian
+AU  - Li, Geoffrey
+TI  - Rethinking Outage Constraints for Resource Management in NOMA Networks
+PY  - 2019
+DA  - 2019-06-01
+JO  - IEEE Journal of Selected Topics in Signal Processing
+VL  - 13
+SP  - 423
+EP  - 435
+DO  - 10.1109/jstsp.2019.2901124
+UR  - https://consensus.app/papers/rethinking-outage-constraints-for-resource-management-in-cui-qin/f0004ea8fd65540dbfb060c4cc2c6aa1/
+ER  - 

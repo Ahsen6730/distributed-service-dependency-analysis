@@ -1,0 +1,294 @@
+TY  - JOUR
+AU  - Silva, Renan
+AU  - Santos, Aellison
+AU  - Fonseca, Iguatemi
+AU  - Nigam, Vivek
+TI  - Fault Injection and Reliability Analysis on Time-Sensitive Networking
+PY  - 2025
+DA  - 2025-01-15
+JO  - IEEE Internet of Things Journal
+VL  - 12
+SP  - 1153
+EP  - 1164
+DO  - 10.1109/jiot.2024.3492134
+UR  - https://consensus.app/papers/fault-injection-and-reliability-analysis-on-silva-santos/e390bafe540959a584427c38300069ea/
+ER  - 
+TY  - JOUR
+AU  - Ahmad, Amro Al-Said
+AU  - Al-Qora'n, L.
+AU  - Zayed, Ahmad
+TI  - Exploring the impact of chaos engineering with various user loads on cloud native applications: an exploratory empirical study
+PY  - 2024
+DA  - 2024-05-05
+JO  - Computing
+VL  - 106
+SP  - 2389
+EP  - 2425
+DO  - 10.1007/s00607-024-01292-z
+UR  - https://consensus.app/papers/exploring-the-impact-of-chaos-engineering-with-various-ahmad-al-qoran/be23938e8e405e3993871ce421d81381/
+ER  - 
+TY  - JOUR
+AU  - Oliha, Festus
+TI  - Assessing the Performability of a Fault Tolerant Architecture for Web Services Solution using Software Fault Injection
+PY  - 2022
+DA  - 2022-10-31
+JO  - International Journal of Computing and Digital Systems
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.12785/ijcds/120199
+UR  - https://consensus.app/papers/assessing-the-performability-of-a-fault-tolerant-oliha/e4f16ff9593555dca9fcc163747fd624/
+ER  - 
+TY  - JOUR
+AU  - Sakic, Ermin
+AU  - Kellerer, W.
+TI  - Response Time and Availability Study of RAFT Consensus in Distributed SDN Control Plane
+PY  - 2018
+DA  - 2018-03-01
+JO  - IEEE Transactions on Network and Service Management
+VL  - 15
+SP  - 304
+EP  - 318
+DO  - 10.1109/tnsm.2017.2775061
+UR  - https://consensus.app/papers/response-time-and-availability-study-of-raft-consensus-in-sakic-kellerer/f38456faf75e545192388cfad2d8e65f/
+ER  - 
+TY  - JOUR
+AU  - Abideen, Zain Ul
+AU  - Rashid, M.
+TI  - EFIC-ME: A Fast Emulation Based Fault Injection Control and Monitoring Enhancement
+PY  - 2020
+DA  - 2020-01-01
+JO  - IEEE Access
+VL  - 8
+SP  - 207705
+EP  - 207716
+DO  - 10.1109/access.2020.3038198
+UR  - https://consensus.app/papers/eficme-a-fast-emulation-based-fault-injection-control-and-abideen-rashid/1e4db9bbe34b5298be03c593c03bb8dc/
+ER  - 
+TY  - JOUR
+AU  - Graça, Bernardo
+AU  - Cerveira, F.
+AU  - Madeira, Henrique
+TI  - Fault injection acceleration using failure models on a virtualized fault-tolerant system
+PY  - 2024
+DA  - 2024-04-08
+JO  - 2024 19th European Dependable Computing Conference (EDCC)
+VL  - 
+SP  - 155
+EP  - 160
+DO  - 10.1109/edcc61798.2024.00038
+UR  - https://consensus.app/papers/fault-injection-acceleration-using-failure-models-on-a-gra%C3%A7a-cerveira/8b833ef90c8f599baa842e5de09d7342/
+ER  - 
+TY  - JOUR
+AU  - Cotroneo, Domenico
+AU  - Simone, L.
+AU  - Natella, R.
+TI  - ThorFI: A Novel Approach for Network Fault Injection as a Service
+PY  - 2022
+DA  - 2022-01-19
+JO  - ArXiv
+VL  - abs/2201.07521
+SP  - 
+EP  - 
+DO  - 10.1016/j.jnca.2022.103334
+UR  - https://consensus.app/papers/thorfi-a-novel-approach-for-network-fault-injection-as-a-cotroneo-simone/eb4ce684f9db5abe9f4b2f120f732db6/
+ER  - 
+TY  - JOUR
+AU  - Xu, Ziyi
+AU  - Xie, Zhiqiang
+AU  - Gandhi, Swapnil
+AU  - Kozyrakis, Christos
+TI  - FailSafe: High-performance Resilient Serving
+PY  - 2025
+DA  - 2025-11-18
+JO  - ArXiv
+VL  - abs/2511.14116
+SP  - 
+EP  - 
+DO  - 10.48550/arxiv.2511.14116
+UR  - https://consensus.app/papers/failsafe-highperformance-resilient-serving-xu-xie/2592a6fe26ca5e0c97a78f456ce310bb/
+ER  - 
+TY  - JOUR
+AU  - Kulkarni, Sameer
+AU  - Liu, Guyue
+AU  - Ramakrishnan, K.
+AU  - Arumaithurai, M.
+AU  - Wood, Timothy
+AU  - Fu, Xiaoming
+TI  - REINFORCE: Achieving Efficient Failure Resiliency for Network Function Virtualization-Based Services
+PY  - 2018
+DA  - 2018-12-04
+JO  - IEEE/ACM Transactions on Networking
+VL  - 28
+SP  - 695
+EP  - 708
+DO  - 10.1145/3281411.3281441
+UR  - https://consensus.app/papers/reinforce-achieving-efficient-failure-resiliency-for-kulkarni-liu/9c84f50982a95910885ecc5a3c1211e4/
+ER  - 
+TY  - JOUR
+AU  - Alhayan, Fatimah
+AU  - Kaur, Gaganjot
+AU  - Alanazi, Sultan
+AU  - Rehman, Mohammed Burhanur
+AU  - Mansouri, Wahida
+AU  - Albalawneh, Da'ad
+AU  - Alqazzaz, Ali
+AU  - Alkhudhayr, Hanadi
+TI  - DA-FIS: A high-speed dynamic adaptive fault injection server framework for reliable FPGA-based embedded systems
+PY  - 2025
+DA  - 2025-07-16
+JO  - PeerJ Computer Science
+VL  - 11
+SP  - 
+EP  - 
+DO  - 10.7717/peerj-cs.2996
+UR  - https://consensus.app/papers/dafis-a-highspeed-dynamic-adaptive-fault-injection-server-alhayan-kaur/1e86924ae46c59919db2ca4ddbd833b1/
+ER  - 
+TY  - JOUR
+AU  - Danezis, G.
+AU  - Kokoris-Kogias, Eleftherios
+AU  - Sonnino, A.
+AU  - Spiegelman, A.
+TI  - Narwhal and Tusk: a DAG-based mempool and efficient BFT consensus
+PY  - 2021
+DA  - 2021-05-25
+JO  - Proceedings of the Seventeenth European Conference on Computer Systems
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1145/3492321.3519594
+UR  - https://consensus.app/papers/narwhal-and-tusk-a-dagbased-mempool-and-efficient-bft-danezis-kokoris-kogias/04becbcaca58599286ba4bdb57f389f1/
+ER  - 
+TY  - JOUR
+AU  - Akanbi, Oluwatobi
+AU  - Aljaedi, Amer
+AU  - Zhou, Xiaobo
+AU  - Alharbi, Adel
+TI  - Fast Fail-Over Technique for Distributed Controller Architecture in Software-Defined Networks
+PY  - 2019
+DA  - 2019-11-05
+JO  - IEEE Access
+VL  - 7
+SP  - 160718
+EP  - 160737
+DO  - 10.1109/access.2019.2951598
+UR  - https://consensus.app/papers/fast-failover-technique-for-distributed-controller-akanbi-aljaedi/3f60e59e03f6535bac5d1904c33ac7fc/
+ER  - 
+TY  - JOUR
+AU  - Huang, Yue
+AU  - Li, Huizhong
+AU  - Sun, Yi
+AU  - Duan, Sisi
+TI  - Byzantine Fault Tolerance With Non-Determinism, Revisited
+PY  - 2025
+DA  - 
+JO  - IEEE Transactions on Information Forensics and Security
+VL  - 20
+SP  - 309
+EP  - 322
+DO  - 10.1109/tifs.2024.3516541
+UR  - https://consensus.app/papers/byzantine-fault-tolerance-with-nondeterminism-revisited-huang-li/6abff469ccfe5021a14bbef6f4f92d57/
+ER  - 
+TY  - JOUR
+AU  - Strati, F.
+AU  - Mcallister, Sara
+AU  - Phanishayee, Amar
+AU  - Tarnawski, Jakub
+AU  - Klimovic, Ana
+TI  - DéjàVu: KV-cache Streaming for Fast, Fault-tolerant Generative LLM Serving
+PY  - 2024
+DA  - 2024-03-04
+JO  - ArXiv
+VL  - abs/2403.01876
+SP  - 
+EP  - 
+DO  - 10.48550/arxiv.2403.01876
+UR  - https://consensus.app/papers/d%C3%A9j%C3%A0vu-kvcache-streaming-for-fast-faulttolerant-strati-mcallister/8641c83c33dc57bfba1d9599506c392e/
+ER  - 
+TY  - JOUR
+AU  - Balaguera, Juan David Guerrero
+AU  - Condia, J. Rodriguez
+AU  - Reorda, Sonza
+TI  - Effective Fault Effects Evaluation for Permanent Faults in GPUs executing DNNs
+PY  - 2025
+DA  - 2025-01-25
+JO  - ACM Transactions on Design Automation of Electronic Systems
+VL  - 30
+SP  - 1
+EP  - 33
+DO  - 10.1145/3715327
+UR  - https://consensus.app/papers/effective-fault-effects-evaluation-for-permanent-faults-balaguera-condia/6dfd550917945343b3c077a244ff997d/
+ER  - 
+TY  - JOUR
+AU  - Charrwi, Mohammad Walid
+AU  - Hussain, Zaid
+TI  - Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults
+PY  - 2025
+DA  - 2025-12-23
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/resilient-packet-forwarding-a-reinforcement-learning-charrwi-hussain/81e6690d2cf059138ce206e2cd1efaba/
+ER  - 
+TY  - JOUR
+AU  - Vu, Huy-The
+AU  - Ikechukwu, Ogbodo Mark
+AU  - Abdallah, Abderazek Ben
+TI  - Fault-Tolerant Spike Routing Algorithm and Architecture for Three Dimensional NoC-Based Neuromorphic Systems
+PY  - 2019
+DA  - 2019-06-26
+JO  - IEEE Access
+VL  - 7
+SP  - 90436
+EP  - 90452
+DO  - 10.1109/access.2019.2925085
+UR  - https://consensus.app/papers/faulttolerant-spike-routing-algorithm-and-architecture-vu-ikechukwu/99e46b6920ec551986b51c6c70c2ecb2/
+ER  - 
+TY  - JOUR
+AU  - Qian, Shangshu
+AU  - Liu, Kipling
+AU  - Sruthi, P.
+AU  - Tan, Lin
+AU  - Zhang, Yongle
+TI  - Towards Resiliency in Large Language Model Serving with KevlarFlow
+PY  - 2026
+DA  - 2026-01-30
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/towards-resiliency-in-large-language-model-serving-with-qian-liu/128869ec37e859b8ab6172dc780d2f90/
+ER  - 
+TY  - JOUR
+AU  - Zhang, Songyu
+AU  - Tam, Aaron
+AU  - Lee, Myungjin
+AU  - Qi, Shixiong
+AU  - Ramakrishnan, K.
+TI  - Making MoE-based LLM Inference Resilient with Tarragon
+PY  - 2026
+DA  - 2026-01-04
+JO  - 
+VL  - 
+SP  - 
+EP  - 
+DO  - 
+UR  - https://consensus.app/papers/making-moebased-llm-inference-resilient-with-tarragon-zhang-tam/47c6075b9b92590182d6917d6c008b36/
+ER  - 
+TY  - JOUR
+AU  - Chlebus, Bogdan
+AU  - Kowalski, D.
+AU  - Rokicki, Mariusz
+TI  - Maximum throughput of multiple access channels in adversarial environments
+PY  - 2017
+DA  - 2017-12-30
+JO  - Distributed Computing
+VL  - 22
+SP  - 93
+EP  - 116
+DO  - 10.1007/s00446-009-0086-4
+UR  - https://consensus.app/papers/maximum-throughput-of-multiple-access-channels-in-chlebus-kowalski/1f7e483922e75ad59a26e75acfd0aa37/
+ER  - 

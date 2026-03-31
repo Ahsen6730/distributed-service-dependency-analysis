@@ -1,0 +1,280 @@
+TY  - JOUR
+AU  - Pasunoori, Vijay Kumar
+TI  - Ensuring Resilience in Microservices with Cloud-Native API Gateways
+PY  - 2025
+DA  - 2025-01-13
+JO  - International Journal of Scientific Research in Computer Science, Engineering and Information Technology
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.32628/cseit25111252
+UR  - https://consensus.app/papers/ensuring-resilience-in-microservices-with-cloudnative-pasunoori/d2132b1227c258839b780bda25381e49/
+ER  - 
+TY  - JOUR
+AU  - Biscarri, Emilio Casanova
+AU  - Mercier, Sophie
+AU  - Sangüesa, Carmen
+TI  - A model for stochastic dependence implied by failures among deteriorating components
+PY  - 2023
+DA  - 2023-11-15
+JO  - Applied Stochastic Models in Business and Industry
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.1002/asmb.2831
+UR  - https://consensus.app/papers/a-model-for-stochastic-dependence-implied-by-failures-biscarri-mercier/7a7ceaf8442a5b2a89f514fa2fdf5c5f/
+ER  - 
+TY  - JOUR
+AU  - Guo, Xiaoxia
+AU  - Guo, Weijia
+AU  - Jiang, Xiang
+AU  - Wang, Wei
+AU  - Zhu, Junpeng
+TI  - Recovery Strategy of Distribution Network Based on Power Supply Capability Assessment of Local Area Configured with Energy Gateway
+PY  - 2025
+DA  - 2025-04-27
+JO  - Energies
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.3390/en18092215
+UR  - https://consensus.app/papers/recovery-strategy-of-distribution-network-based-on-power-guo-guo/99f64b473d915c8bba58ece1ceeeb512/
+ER  - 
+TY  - JOUR
+AU  - Zhu, Peican
+AU  - Guo, Yangming
+AU  - Si, Shubin
+AU  - Han, Jie
+TI  - A stochastic analysis of competing failures with propagation effects in functional dependency gates
+PY  - 2017
+DA  - 2017-08-30
+JO  - IISE Transactions
+VL  - 49
+SP  - 1050
+EP  - 1064
+DO  - 10.1080/24725854.2017.1342056
+UR  - https://consensus.app/papers/a-stochastic-analysis-of-competing-failures-with-zhu-guo/90adf125762855cfa57231f29e7e2f44/
+ER  - 
+TY  - JOUR
+AU  - Ochuba, Nneka Adaobi
+AU  - Kisina, Denis
+AU  - Owoade, Samuel
+AU  - Uzoka, Abel Chukwuemeke
+AU  - Gbenle, Toluwase Peter
+AU  - Adanigbo, O.
+TI  - Systematic Review of API Gateway Patterns for Scalable and Secure Application Architecture
+PY  - 2021
+DA  - 2021-01-01
+JO  - Journal of Frontiers in Multidisciplinary Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.54660/.ijfmr.2021.2.1.94-100
+UR  - https://consensus.app/papers/systematic-review-of-api-gateway-patterns-for-scalable-and-ochuba-kisina/9eb8098ca654546398496e71d1ecd153/
+ER  - 
+TY  - JOUR
+AU  - Yousefi, N.
+AU  - Coit, D.
+AU  - Song, S.
+TI  - Reliability analysis of systems considering clusters of dependent degrading components
+PY  - 2020
+DA  - 2020-10-01
+JO  - Reliab. Eng. Syst. Saf.
+VL  - 202
+SP  - 107005
+EP  - 
+DO  - 10.1016/j.ress.2020.107005
+UR  - https://consensus.app/papers/reliability-analysis-of-systems-considering-clusters-of-yousefi-coit/043501ea24105c6ab3618d3f50f21530/
+ER  - 
+TY  - JOUR
+AU  - Bhairavabhatla, Madhavi Latha
+TI  - Cascading Timeouts: A Simple Strategy for Building Resilient Systems
+PY  - 2025
+DA  - 2025-09-26
+JO  - International Journal of Computational and Experimental Science and Engineering
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.22399/ijcesen.3959
+UR  - https://consensus.app/papers/cascading-timeouts-a-simple-strategy-for-building-bhairavabhatla/728ffd0b2a245a5cbb8584c3ecc7cc52/
+ER  - 
+TY  - JOUR
+AU  - Zhang, Nan
+AU  - Tian, Sen
+AU  - Cai, Kaiquan
+AU  - Zhang, Jun
+TI  - Condition-based maintenance assessment for a deteriorating system considering stochastic failure dependence
+PY  - 2022
+DA  - 2022-06-06
+JO  - IISE Transactions
+VL  - 55
+SP  - 687
+EP  - 697
+DO  - 10.1080/24725854.2022.2078523
+UR  - https://consensus.app/papers/conditionbased-maintenance-assessment-for-a-zhang-tian/7a718553447c5a94909eb2bf30d5c31c/
+ER  - 
+TY  - JOUR
+AU  - Prokhorenko, Victor
+AU  - Babar, Muhammad Ali
+TI  - Architectural Resilience in Cloud, Fog and Edge Systems: A Survey
+PY  - 2020
+DA  - 2020-02-03
+JO  - IEEE Access
+VL  - 8
+SP  - 28078
+EP  - 28095
+DO  - 10.1109/access.2020.2971007
+UR  - https://consensus.app/papers/architectural-resilience-in-cloud-fog-and-edge-systems-a-prokhorenko-babar/4f72b4d078dc512e98d99bd2fe3049b1/
+ER  - 
+TY  - JOUR
+AU  - Fan, Mengfei
+AU  - Zeng, Zhiguo
+AU  - Zio, E.
+AU  - Kang, R.
+AU  - Chen, Ying
+TI  - A stochastic hybrid systems based framework for modeling dependent failure processes
+PY  - 2017
+DA  - 2017-02-23
+JO  - PLoS ONE
+VL  - 12
+SP  - 
+EP  - 
+DO  - 10.1371/journal.pone.0172680
+UR  - https://consensus.app/papers/a-stochastic-hybrid-systems-based-framework-for-modeling-fan-zeng/9346f6444ff75a73a6f9a4e5b270f8b9/
+ER  - 
+TY  - JOUR
+AU  - Park, Jisoo
+TI  - Towards Adaptive API Traffic Management: A Systematic Architecture for High Availability and Performance
+PY  - 2025
+DA  - 2025-06-13
+JO  - Frontiers in Artificial Intelligence Research
+VL  - 
+SP  - 
+EP  - 
+DO  - 10.71465/fair269
+UR  - https://consensus.app/papers/towards-adaptive-api-traffic-management-a-systematic-park/7e4102f847f051838054c0d07f97cd52/
+ER  - 
+TY  - JOUR
+AU  - Wu, Bei
+AU  - Cui, L.
+TI  - On reliability analysis of a load-sharing k-out-of-n: G system with interacting Markov subsystems
+PY  - 2021
+DA  - 2021-02-20
+JO  - International Journal of Production Research
+VL  - 60
+SP  - 2331
+EP  - 2345
+DO  - 10.1080/00207543.2021.1887532
+UR  - https://consensus.app/papers/on-reliability-analysis-of-a-loadsharing-koutofn-g-system-wu-cui/028d1d23e8585262addd24eb3d413054/
+ER  - 
+TY  - JOUR
+AU  - Gudi, Srikanth Reddy
+TI  - Deconstructing Monoliths: A Fault-Aware Transition to Microservices with Gateway Optimization using Spring Cloud
+PY  - 2025
+DA  - 2025-09-10
+JO  - 2025 6th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+VL  - 
+SP  - 815
+EP  - 820
+DO  - 10.1109/icesc65114.2025.11212326
+UR  - https://consensus.app/papers/deconstructing-monoliths-a-faultaware-transition-to-gudi/25fcea8573e753d999fe1b84ee925412/
+ER  - 
+TY  - JOUR
+AU  - Wang, Liying
+AU  - Zhang, Jie
+AU  - Jia, Xu-Jie
+TI  - Reliability Evaluation of a Load-sharing Parallel System with Failure Dependence
+PY  - 2016
+DA  - 2016-10-20
+JO  - Communications in Statistics - Simulation and Computation
+VL  - 45
+SP  - 3094
+EP  - 3113
+DO  - 10.1080/03610918.2014.920880
+UR  - https://consensus.app/papers/reliability-evaluation-of-a-loadsharing-parallel-system-wang-zhang/38c91e1d316959c889f273b3bb442999/
+ER  - 
+TY  - JOUR
+AU  - Zhou, Di
+AU  - Sheng, Min
+AU  - Wu, Jiaxin
+AU  - Li, Jiandong
+AU  - Han, Zhu
+TI  - Gateway Placement in Integrated Satellite–Terrestrial Networks: Supporting Communications and Internet of Remote Things
+PY  - 2021
+DA  - 2021-08-11
+JO  - IEEE Internet of Things Journal
+VL  - 9
+SP  - 4421
+EP  - 4434
+DO  - 10.1109/jiot.2021.3103965
+UR  - https://consensus.app/papers/gateway-placement-in-integrated-satellite%E2%80%93terrestrial-zhou-sheng/c19f0257b41052a29ed55fb97dd7275c/
+ER  - 
+TY  - JOUR
+AU  - Bahou, Ziyad
+AU  - Krimi, Issam
+AU  - Cadi, A.
+AU  - Hachemi, Nizar El
+TI  - Availability modelling and analysis of a two-component parallel system under stochastic dependence
+PY  - 2023
+DA  - 2023-01-01
+JO  - Int. J. Math. Oper. Res.
+VL  - 26
+SP  - 327
+EP  - 356
+DO  - 10.1504/ijmor.2023.134836
+UR  - https://consensus.app/papers/availability-modelling-and-analysis-of-a-twocomponent-bahou-krimi/f283ee4c5ae750bfaf8f4343d5752401/
+ER  - 
+TY  - JOUR
+AU  - Tanganelli, Giacomo
+AU  - Vallati, Carlo
+AU  - Mingozzi, E.
+TI  - Edge-Centric Distributed Discovery and Access in the Internet of Things
+PY  - 2018
+DA  - 2018-02-01
+JO  - IEEE Internet of Things Journal
+VL  - 5
+SP  - 425
+EP  - 438
+DO  - 10.1109/jiot.2017.2767381
+UR  - https://consensus.app/papers/edgecentric-distributed-discovery-and-access-in-the-tanganelli-vallati/78983ebe5c3958c987f7b9ae4960c000/
+ER  - 
+TY  - JOUR
+AU  - Dao, C.
+AU  - Zuo, M.
+TI  - Selective Maintenance for Multistate Series Systems With S-Dependent Components
+PY  - 2016
+DA  - 2016-06-01
+JO  - IEEE Transactions on Reliability
+VL  - 65
+SP  - 525
+EP  - 539
+DO  - 10.1109/tr.2015.2494689
+UR  - https://consensus.app/papers/selective-maintenance-for-multistate-series-systems-with-dao-zuo/2f3d8ca7b17055bfa333fbe059b137d2/
+ER  - 
+TY  - JOUR
+AU  - Meijer, Willem
+AU  - Trubiani, Catia
+AU  - Aleti, A.
+TI  - Experimental evaluation of architectural software performance design patterns in microservices
+PY  - 2024
+DA  - 2024-08-01
+JO  - ArXiv
+VL  - abs/2409.03792
+SP  - 
+EP  - 
+DO  - 10.1016/j.jss.2024.112183
+UR  - https://consensus.app/papers/experimental-evaluation-of-architectural-software-meijer-trubiani/84484d643d045830a3125bdf457d60cd/
+ER  - 
+TY  - JOUR
+AU  - Liu, Jingfan
+AU  - Zhang, Shijie
+TI  - Stochastic two-stage multi-objective unit commitment of distributed resource energy systems considering uncertainties and unit failures
+PY  - 2024
+DA  - 2024-10-01
+JO  - Reliab. Eng. Syst. Saf.
+VL  - 253
+SP  - 110520
+EP  - 
+DO  - 10.1016/j.ress.2024.110520
+UR  - https://consensus.app/papers/stochastic-twostage-multiobjective-unit-commitment-of-liu-zhang/1fc455b109885353ae0027cc56c0c96e/
+ER  - 
